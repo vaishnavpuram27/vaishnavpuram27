@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavpuram27&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavpuram27" /> </p>
 
-- 🌱 I’m currently Studying Master of Computer Science in **North Carolina State University**
+- 🌱 Graduated in  Master of Computer Science in **North Carolina State University**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vaishnavpuram27](https://github.com/vaishnavpuram27)
 
